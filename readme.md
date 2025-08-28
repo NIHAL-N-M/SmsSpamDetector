@@ -4,9 +4,6 @@
 ## Preview of Project
 ![Capture](https://github.com/rajatrawal/sms-spam-detector/assets/72153827/e0075213-2e5c-4c62-9ec5-b960c5a60736)
 
-
-Here’s a **simpler, cleaner version** of your README for the **SMS Spam Detector**:
-
 ---
 
 # 📱 SMS Spam Detector
@@ -68,5 +65,3 @@ Built with **Python** and **Streamlit**.
 ⭐ **Star this repo if you find it useful!**
 
 ---
-
-Would you like me to make this README even **shorter (1-page student project style)** with only setup + run instructions, or keep this professional but still simple version?

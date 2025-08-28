@@ -1,13 +1,5 @@
 # SMS Spam Detector
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)](https://sms-spam-predictor.streamlit.app/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-SMS%20Spam%20Detector-green)](https://github.com/rajatrawal/sms-spam-detector)
-
-
-[![Python](https://img.shields.io/badge/Python-3.11-red)](https://www.python.org/)
-[![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-Algorithm-blue)](https://scikit-learn.org/stable/modules/naive_bayes.html)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-blue)](https://streamlit.io/)
-
 Welcome to the "SMS Spam Detector" project! This machine learning model identifies whether a given SMS is spam or not, providing a valuable tool for spam detection and filtering.
 
 ## About This Project

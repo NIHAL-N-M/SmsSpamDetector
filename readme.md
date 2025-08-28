@@ -1,81 +1,72 @@
 # SMS Spam Detector
 
-Welcome to the "SMS Spam Detector" project! This machine learning model identifies whether a given SMS is spam or not, providing a valuable tool for spam detection and filtering.
-
-## About This Project
-
-The "SMS Spam Detector" utilizes the Naive Bayes algorithm for text classification to determine whether an SMS is spam or not. The project is deployed as a web app using Streamlit, hosted on the Streamlit cloud platform for easy access.
 
 ## Preview of Project
 ![Capture](https://github.com/rajatrawal/sms-spam-detector/assets/72153827/e0075213-2e5c-4c62-9ec5-b960c5a60736)
 
-### Explore the Project
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)](https://sms-spam-predictor.streamlit.app/)
+Here’s a **simpler, cleaner version** of your README for the **SMS Spam Detector**:
 
-#### Features
+---
 
-- **SMS Spam Detection**: Detects whether an SMS is spam or not, helping users filter out unwanted messages.
+# 📱 SMS Spam Detector
 
-- **Naive Bayes Algorithm**: Utilizes the Naive Bayes algorithm, well-suited for text classification tasks.
+A simple **machine learning web app** that detects whether an SMS is **spam or not** using the **Naive Bayes algorithm**.
+Built with **Python** and **Streamlit**.
 
-- **User-Friendly Interface**: The web app is powered by Streamlit, offering an intuitive and interactive user experience.
+---
 
-- **Cloud Deployment**: Hosted on the Streamlit platform, making it easily accessible to users.
+## 🚀 Features
 
-## Technologies Used
+* 🔍 Detects spam SMS instantly.
+* 🤖 Uses **Naive Bayes** (great for text classification).
+* 💻 Easy-to-use web interface with Streamlit.
+* ☁️ Deployed online for quick access.
 
-This project leverages the following technologies:
+---
 
-- [Python](https://www.python.org/): The primary programming language for building and deploying the SMS spam detection model.
+## 🛠️ Technologies
 
-- [Naive Bayes Algorithm](https://scikit-learn.org/stable/modules/naive_bayes.html): The machine learning algorithm used for text classification.
+* **Python**
+* **Scikit-learn (Naive Bayes)**
+* **Streamlit**
 
-- [Streamlit](https://streamlit.io/): The web framework used to create the user-friendly interface.
+---
 
-## Installation
+## ⚡ Installation (Run Locally)
 
-To run this project locally, follow these steps:
+1. Clone this repo:
 
-1. Clone the repository to your local machine using this command:
-
-   ```shell
+   ```bash
    git clone https://github.com/rajatrawal/sms-spam-detector.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```shell
    cd sms-spam-detector
    ```
 
-3. Install the required Python libraries:
+2. Install dependencies:
 
-   ```shell
+   ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the Streamlit app locally:
+3. Run the app:
 
-   ```shell
+   ```bash
    streamlit run app.py
    ```
 
-5. Open your web browser and go to [http://localhost:8501](http://localhost:8501) to access the SMS Spam Detector.
+4. Open in browser: [http://localhost:8501](http://localhost:8501)
 
-## Usage
+---
 
-To check if an SMS is spam or not:
+## 📌 Usage
 
-- Visit the [Live Demo](https://sms-spam-predictor.streamlit.app/) and use the user-friendly interface to input the SMS text. The model will classify it as spam or not.
+* Enter your SMS text.
+* The app will classify it as **Spam** 🚫 or **Not Spam** ✅.
 
+---
 
-## Say Goodbye to SMS Spam
+⭐ **Star this repo if you find it useful!**
 
-Explore the "SMS Spam Detector" and keep your SMS inbox spam-free. It's a powerful tool for identifying and filtering out unwanted messages. Visit the [Live Demo](https://sms-spam-predictor.streamlit.app/) and enjoy a spam-free SMS experience.
+---
 
-## Contribute
-
-If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/rajatrawal/sms-spam-detector).
-
-Thank you for exploring the "SMS Spam Detector"! We hope it simplifies your SMS management and spam filtering.
+Would you like me to make this README even **shorter (1-page student project style)** with only setup + run instructions, or keep this professional but still simple version?
